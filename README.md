@@ -1,4 +1,4 @@
-<h1 align="center">🚀 The Inferra Labs</h1>
+<h1 align="center"> The Inferra Labs</h1>
 <p align="center">
   <b>Innovation | Code | Impact</b> <br>
   A student-led tech force shaping the future, one project at a time.
@@ -8,7 +8,7 @@
 
 ### 🧠 About Us
 
-**The Inferra Labs** is the official tech team founded at [Your College Name], led by students passionate about building real-world solutions through code, creativity, and collaboration.
+**The Inferra Labs** is the unofficial tech team founded at Dr. D. Y. Patil Institute of Technology, led by students passionate about building real-world solutions through code, creativity, and collaboration.
 
 We are **creators, developers, and tech rebels** who believe in learning by doing — from hackathons to open-source to AI-powered projects.
 
