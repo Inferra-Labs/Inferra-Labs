@@ -29,9 +29,7 @@ We are **creators, developers, and tech rebels** who believe in learning by doin
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔐 EVM Voting System | Digital voting machine with Arduino | C++, Embedded, Hardware |
-| 📲 College Connect | Platform for students to network & share resources | React, Firebase |
-| 🤖 InferraBot | A Discord bot for team tasks & updates | Node.js, Discord.js |
+
 
 > Want to contribute or suggest ideas? Open an issue or drop us a DM!
 
@@ -62,9 +60,7 @@ We're always looking for passionate minds who:
 
 ### 🏆 Achievements
 
-- 🥇 1st Place @ Hack2Skill Hackathon 2025  
-- 🚀 Finalists in Smart India Hackathon  
-- 🎤 Invited to present at TechX Pune
+Loading....!!!
 
 ---
 
