@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">🚀 The Inferra Labs</h1>
+<p align="center">
+  <b>Innovation | Code | Impact</b> <br>
+  A student-led tech force shaping the future, one project at a time.
+</p>
 
-<!--
-**Inferra-Labs/Inferra-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Us
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**The Inferra Labs** is the official tech team founded at [Your College Name], led by students passionate about building real-world solutions through code, creativity, and collaboration.
+
+We are **creators, developers, and tech rebels** who believe in learning by doing — from hackathons to open-source to AI-powered projects.
+
+---
+
+### 🎯 Our Mission
+
+> **Empower students to build, break, and innovate through tech.**
+
+- 💡 Build impactful projects for campus and beyond  
+- 🧑‍💻 Train members in Web Dev, AI/ML, IoT, and more  
+- 🤝 Collaborate with clubs, startups, and industry mentors  
+- 🚀 Represent our college in hackathons and tech fests
+
+---
+
+### 💼 Current Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔐 EVM Voting System | Digital voting machine with Arduino | C++, Embedded, Hardware |
+| 📲 College Connect | Platform for students to network & share resources | React, Firebase |
+| 🤖 InferraBot | A Discord bot for team tasks & updates | Node.js, Discord.js |
+
+> Want to contribute or suggest ideas? Open an issue or drop us a DM!
+
+---
+
+### 🧑‍💻 Tech Stack We Love
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,cpp,arduino,git,github,figma)
+
+---
+
+### 🧩 Join The Squad
+
+We're always looking for passionate minds who:
+- 💻 Love to code or design
+- 🧠 Have ideas to solve real problems
+- 💬 Want to grow with a motivated team
+
+📩 Fill this [Recruitment Form](#) or message us on [Instagram](#) / [LinkedIn](#) to join!
+
+---
+
+### 📸 Gallery
+
+> Coming soon: behind-the-scenes, hackathon pics, and team memories!
+
+---
+
+### 🏆 Achievements
+
+- 🥇 1st Place @ Hack2Skill Hackathon 2025  
+- 🚀 Finalists in Smart India Hackathon  
+- 🎤 Invited to present at TechX Pune
+
+---
+
+### 📬 Connect with Us
+
+- 🔗 Website: [inferra-labs.github.io](#) *(Coming Soon)*
+- 📧 Email: inferra.labs@gmail.com
+- 📷 Instagram: [@theinferralabs](#)
+- 💼 LinkedIn: [The Inferra Labs](#)
+
+---
+
+<p align="center">🦾 Built with love by The Inferra Labs · Pune, India 🇮🇳</p>
