@@ -1,6 +1,6 @@
 # 🤖 Artificial Intelligence
 
-Welcome to the brain of Code Beast.  
+Welcome to the brain of Inferra Labs. 
 This folder is home to all things AI — from simple logic to advanced neural networks.
 
 ### 📂 What You'll Find:
