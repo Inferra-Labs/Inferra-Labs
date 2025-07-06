@@ -67,7 +67,7 @@ Loading....!!!
 ### 📬 Connect with Us
 
 - 🔗 Website: [inferra-labs.github.io](#) *(Coming Soon)*
-- 📧 Email: inferra.labs@gmail.com
+- 📧 Email: theinferralabs@gmail.com
 - 📷 Instagram: [@theinferralabs](#)
 - 💼 LinkedIn: [The Inferra Labs](#)
 
