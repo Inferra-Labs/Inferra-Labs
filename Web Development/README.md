@@ -1,14 +1,50 @@
-# 🌐 Web Development
+# 🌐 Inferra Labs – Web Development Department
 
-This is where creativity meets code.  
-The folder covers everything from interactive frontends to powerful backend systems.
+Welcome to the **Web Development Division** of **Inferra Labs**.  
+We engineer fast, scalable, and beautiful digital experiences using modern web technologies.
 
-### 📂 What You'll Find:
-- 🧱 Frontend magic (HTML, CSS, JavaScript, React)
-- 🚀 Backend logic (Node.js, Express, Flask, APIs)
-- 🔒 Auth systems, DB integrations, routing, and security
-- 🌍 Full-stack apps & UI/UX experiments
-- 🛠️ Tools, templates, and components
+---
 
-> "We don’t just build websites — we craft digital experiences."
+## 🏗️ What We Do
 
+- Build web apps, portals, and dashboards
+- Design responsive UI/UX for all platforms
+- Integrate backend APIs and databases
+- Optimize performance and SEO
+
+---
+
+## 🔧 Tech Stack
+
+| Frontend          | Backend         | Tools & Others              |
+|------------------|------------------|-----------------------------|
+| React.js, Vue.js | Node.js, Express | Figma, Tailwind, Bootstrap |
+| Next.js           | Django, Flask    | GitHub Actions, Netlify     |
+| HTML5, CSS3, JS   | MongoDB, MySQL   | Vercel, Docker              |
+
+---
+
+
+---
+
+## 👨‍💻 Guidelines
+
+- Maintain component reusability
+- Follow responsive design principles
+- Push tested and versioned code
+- Use `.env.example` for environment configs
+
+---
+
+## 🧑‍🤝‍🧑 Contributors
+
+
+
+---
+
+## 📬 Contact
+
+📧 Email: `theinferralabs@gmail.com`
+🌐 Website: [https://inferralabs.com](https://inferralabs.com)
+
+---
