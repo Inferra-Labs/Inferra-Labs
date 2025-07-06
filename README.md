@@ -2,7 +2,7 @@ c<h1 align="center">🧠 Inferra Labs</h1>
 <p align="center"><em>Gateway to Decipher</em></p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/WhmbpRff/inferra-dark.png" width="160" alt="Inferra Labs Logo Dark" style="border-radius: 20px;"/>
+  <img src="https://i.postimg.cc/WhmbpRff/inferra-dark.png" width="160" alt="Inferra Labs Logo Dark" style="border-radius: 50px;"/>
 </p>
 
 ---
