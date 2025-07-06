@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img corner-radius=50% src="[https://your-cdn-link/inferra-logo.png](https://drive.google.com/file/d/1t6IXD2MgppT-jvB9jqPncy9L6f3zontO/view?usp=drive_link)" width="140" alt="Inferra Labs Logo" />
+  <img src="[https://your-cdn-link/inferra-logo.png](https://drive.google.com/file/d/1t6IXD2MgppT-jvB9jqPncy9L6f3zontO/view?usp=drive_link)" width="140" alt="Inferra Labs Logo" />
 </p>
 
 ---
