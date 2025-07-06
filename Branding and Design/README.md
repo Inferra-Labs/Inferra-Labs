@@ -1,77 +1,132 @@
-# 🎨 Inferra Labs – Creative Department
-
-Welcome to the official repository of the **Creative Department** at **Inferra Labs**.  
-This department is responsible for curating and maintaining the **visual identity**, **brand assets**, and **presentation materials** that represent Inferra Labs across platforms, projects, and public communications.
+<h1 align="center">🎨 Branding & Design Department</h1>
+<h3 align="center">The Inferra Labs – Gateway to Decipher</h3>
 
 ---
 
-## 🧭 Purpose
+## 🧠 Overview
 
-The Creative Department ensures:
-- Consistent branding across all internal and external touchpoints
-- High-quality design assets for presentations, marketing, and product interfaces
-- Visual support to all departments including AI, Cyber Security, Web Dev, and Data Science
-- A centralized library of approved media assets
+The **Branding & Design Department** is the creative heartbeat of **The Inferra Labs**.  
+We shape the visual identity, aesthetic cohesion, and storytelling experience behind every product, pitch, and public-facing asset.
 
----
+> _"Design is not how it looks. It's how it feels and what it communicates."_
 
+This department ensures that Inferra is **not only heard, but remembered** — visually and emotionally.
 
 ---
 
-## 🎯 Responsibilities
+## 🎯 Department Objectives
 
-- Maintain brand consistency across documents, codebases, and digital properties
-- Collaborate with department leads to design internal and public-facing assets
-- Manage and update pitch decks, posters, banners, and visual guidelines
-- Approve design requests submitted via the Creative Request Process
-
----
-
-## 📌 Brand Usage Guidelines
-
-| Element         | Instruction |
-|----------------|-------------|
-| ✅ Logo         | Use original `.svg` or `.png` from `/logo/`. Do not stretch or recolor. |
-| 🎨 Colors       | Follow official brand palette in `/brand-guidelines/brand-manual.pdf` |
-| 🔡 Fonts        | Use licensed fonts listed in the guideline. Avoid substitutes. |
-| 📄 Templates    | All presentations must use templates from `/templates/` |
-| 📢 Social Media | Use optimized banner sizes listed under `/social-media/` |
+- Design and maintain the visual identity of Inferra Labs  
+- Create all logos, templates, documents, presentations, and brand kits  
+- Ensure visual consistency across all departments and platforms  
+- Support product UI/UX needs and presentation designs  
+- Collaborate with communications, web, and software teams for product branding  
 
 ---
 
-## 🧾 Contribution Policy
+## 🎨 Core Focus Areas
 
-> **Only authorized team members** from the Creative Department can update this repository.
-
-For other departments:
-- Submit requests via the **Design Request Form** (available internally)
-- Mention deadline, asset type, and resolution requirements
-- Allow a minimum of 3 business days for standard requests
-
----
-
-## 👥 Team
-
-- **Shamli Jadhao** – Head of Creative Strategy & Visual Designer  
-- **Abhishek Patil** – Brand Communications Lead & Visual Designer
-
-For internal collaboration, reach us at:  
-📧 `theinferralabs@gmail.com`
+| Domain           | Description |
+|------------------|-------------|
+| 🖼️ Brand Identity | Logos, typography, color systems |
+| 📄 Templates     | Pitch decks, project docs, social banners |
+| 🧭 UI/UX Design   | App interfaces, user flows, mockups |
+| 📸 Visual Content | Posters, animations, reels, motion graphics |
+| 🧠 Brand Strategy | Messaging, tone, positioning, storytelling |
 
 ---
 
-## 🛑 Licensing & Confidentiality
+## 👥 Team Structure
 
-All assets in this directory are:
-- Property of **Inferra Labs**
-- For internal and authorized use only
-- Not to be shared externally without written permission
+| Role                        | Member             |
+|-----------------------------|--------------------|
+| **Department Lead**         | Shamli Jadhao      |
+| **Visual Designer**         | Abhishek Patil & Shamli Jadhao|
+| **Brand Communications Lead** | Abhishek Patil  |
+| **UI/UX Designer (TBD)**    | To Be Onboarded    |
+
+> A hybrid design unit that works closely with every Inferra division to tell powerful visual stories.
 
 ---
 
-## 📌 Last Updated
+## 🧾 Active Assets
 
-> `README.md` last revised on **[Insert Date]**  
-Maintainer: `Shamli Jadhao`  
+### 🔹 Inferra Brand Kit  
+Primary + secondary logos, fonts, colors, and visual guidelines.
+
+### 🔹 Pitch Deck Templates  
+Minimal + modern layouts for presenting tech, projects, and products.
+
+### 🔹 UI Kit Library  
+Figma-based reusable component library for frontend and product teams.
+
+### 🔹 Banner & Promo Pack  
+Ready-made promotional banners, reels, headers, and event visuals.
+
+---
+
+## 📁 Proposed Folder Structure
+
+branding-design/ <br>
+├── logo/ <br>
+│ ├── dark-mode/ <br>
+│ └── light-mode/ <br>
+├── brand-kit/ <br>
+├── templates/ <br>
+│ ├── pitch-decks/ <br>
+│ └── doc-designs/ <br>
+├── ui-ux/ <br>
+├── marketing/ <br>
+│ ├── banners/ <br>
+│ └── reels/ <br>
+├── social/ <br>
+├── assets/ <br>
+└── README.md ← you're here <br>
 
 
+---
+
+## ✨ Design Guidelines
+
+- ✅ Use SVGs or high-res PNGs only (no blurry visuals)  
+- ✅ Maintain aspect ratio & brand-safe spacing  
+- ✅ Store assets with naming conventions: `type-version-color.ext`  
+- ✅ Align design with Inferra tone: Minimal, Creative, Disruptive  
+- ✅ Every file must have light & dark theme variants where needed  
+
+---
+
+## 🛠️ Tools & Stack
+
+| Category        | Tools |
+|------------------|-------|
+| Graphic Design   | Canva · Adobe Illustrator · Figma |
+| UI/UX            | Figma · Adobe XD · Framer |
+| Docs & Slides    | Google Slides · PowerPoint · Notion |
+| Motion Graphics  | Adobe After Effects · Blender |
+| File Management  | PostImage · Google Drive · Git LFS |
+
+---
+
+## 🔮 Philosophy
+
+> _"A strong brand makes people feel. A clear design makes them act."_
+
+- Design to express, not impress  
+- Consistency > Complexity  
+- Everything communicates — be intentional  
+- Build identity that earns loyalty, not just attention  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: `theinferralabs@gmail.com`  
+- 🔗 GitHub: [github.com/InferraLabs/branding-design](https://github.com/InferraLabs/branding-design)
+
+---
+
+<p align="center">
+  <strong>© 2025 The Inferra Labs</strong><br>
+  <em>Design. Define. Distinguish.</em>
+</p>
