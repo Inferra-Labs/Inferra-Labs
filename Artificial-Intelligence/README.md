@@ -1,5 +1,5 @@
 <h1 align="center"> 🤖 Artificial Intelligence Department </h1>  
-<h3> The Inferra Labs – Gateway to Decipher </h3>  
+<h3 align="center"> The Inferra Labs – Gateway to Decipher </h3>  
 
 <p align="center">
   <img src="https://i.postimg.cc/WhmbpRff/inferra-dark.png" width="120" alt="Inferra Labs Logo" />
