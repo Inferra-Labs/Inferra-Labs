@@ -118,7 +118,7 @@ artificial-intelligence/ <br>
 
 ## 📬 Contact
 
-- 📧 Email: `ai@inferralabs.com`
+- 📧 Email: `theinferralabs@gmail.com`
 - 🔗 GitHub: [github.com/InferraLabs/artificial-intelligence](https://github.com/InferraLabs/artificial-intelligence)
 
 ---
