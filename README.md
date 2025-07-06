@@ -42,13 +42,13 @@ We combine **elegance**, **engineering**, and **execution** to tackle complex re
 ## 🧱 Repository Structure
 
 inferra-labs/
-├── artificial-intelligence/
-├── cyber-security/
-├── web-development/
-├── software-development/
-├── data-science/
-├── creative-department/
-└── README.md ← you're here
+├── artificial-intelligence/ <br>
+├── cyber-security/ <br>
+├── web-development/ <br>
+├── software-development/ <br>
+├── data-science/ <br>
+├── creative-department/ <br>
+└── README.md ← you're here <br>
 
 
 Each department contains:
@@ -120,9 +120,7 @@ All rights reserved. No reuse, redistribution, or reproduction without explicit 
 
 ---
 
-<p align="center">
-  <img src="https://i.postimg.cc/ZBZzM0Jb/inferra-light.png" width="120" alt="Inferra Labs Logo Light"/>
-</p>
+
 
 <p align="center">
   <strong>© 2025 Inferra Labs</strong><br>
