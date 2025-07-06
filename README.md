@@ -1,87 +1,131 @@
 <h1 align="center">🧠 Inferra Labs</h1>
-<p align="center">
-  <em>Gateway to Decipher</em><br>
-  <strong>Artificial Intelligence · Cyber Security · Software · Web · Data · Design</strong>
-</p>
+<p align="center"><em>Gateway to Decipher</em></p>
 
 <p align="center">
-  <img src="[https://your-cdn-link/inferra-logo.png](https://drive.google.com/file/d/1t6IXD2MgppT-jvB9jqPncy9L6f3zontO/view?usp=drive_link)" width="140" alt="Inferra Labs Logo" />
+  <img src="https://i.postimg.cc/WhmbpRff/inferra-dark.png" width="160" alt="Inferra Labs Logo Dark"/>
 </p>
 
 ---
 
-## 🧭 About
+## 🧭 About Us
 
-**Inferra Labs** is a multidisciplinary innovation lab where engineering meets intelligence.  
-We build secure, intelligent systems across multiple domains — blending creativity, precision, and scale.
+**Inferra Labs** is a multidisciplinary tech collective on a mission to build, secure, and scale intelligent systems across critical domains.  
+We combine **elegance**, **engineering**, and **execution** to tackle complex real-world challenges — from secure systems to smart machines.
 
-Our teams operate like focused startups within a unified ecosystem, driving projects in:
-
-- 🤖 **Artificial Intelligence**
-- 🛡️ **Cyber Security**
-- 💻 **Software Development**
-- 🌐 **Web Engineering**
-- 📊 **Data Science**
-- 🎨 **Creative & Visual Identity**
+> _“Gateway to Decipher” — We don’t just build tech. We reveal its meaning._
 
 ---
 
+## 🌐 Departments at a Glance
 
-Each department maintains its own structure, standards, and workflows — all aligned under the Inferra umbrella.
+| Department              | Lead                          | Focus |
+|-------------------------|-------------------------------|-------|
+| 🤖 Artificial Intelligence | **Abhishek Patil**              | LLMs, ML systems, computer vision, deep learning, Web Backend, Brand Communication |
+| 🛡️ Cyber Security          | **Shubham Kushwaha**            | Red teaming, threat modeling, hardening, recon |
+| 💻 Software Development    | **TBD**                         | System architecture, scalable APIs, engineering tools |
+| 🌐 Web Development         | **Gaurav Saste**                | Full-stack platforms, UI/UX, performance optimization |
+| 📊 Data Science            | **Shravan Pulliwar**            | Analytics, predictive modeling, dashboards, Web Frontend |
+| 🎨 Branding & Design       | **Shamli Jadhao**               | Visual identity, pitch decks, media kits |
 
----
-
-## 🔍 Philosophy
-
-> "Think Deep. Build Smart. Move Fast. Stay Secure."
-
-- Minimal, modular, and meaningful code
-- Secure by design — always
-- Cross-functional collaboration
-- Design meets utility
+> 🔁 Cross-collaboration is our strength. Each department functions like a focused startup under one unified vision.
 
 ---
 
 ## 🧠 Team Structure
 
-| Department             | Lead/Contact             |
-|------------------------|--------------------------|
-| Artificial Intelligence | [AI Lead Name]           |
-| Cyber Security          | [CyberSec Lead Name]     |
-| Software Engineering    | [SDE Lead Name]          |
-| Web Development         | [Frontend Lead Name]     |
-| Data Science            | [Data Lead Name]         |
-| Creative Department     | Abhishek Patil (Brand Head) |
 
-For collaboration or internal onboarding, contact us at `team@inferralabs.com`
+
+> Software Development Lead is currently open.
 
 ---
 
-## ⚙️ Internal Standards
+## 🧱 Repository Structure
 
-- ✅ Use semantic commit messages (`feat:`, `fix:`, `docs:`)
-- ✅ Maintain clean and consistent folder structure
-- ✅ Use README.md in every major subdirectory
-- ✅ Never push sensitive data or large binaries
-- ✅ Follow department-specific guidelines
+inferra-labs/
+├── artificial-intelligence/
+├── cyber-security/
+├── web-development/
+├── software-development/
+├── data-science/
+├── creative-department/
+└── README.md ← you're here
+
+
+Each department contains:
+- 📁 Own folder structure
+- 📄 Individual `README.md`
+- 🧰 Custom toolsets, workflows, libraries
 
 ---
 
-## 🚧 Contribution
+## 🎯 What We Build
 
-This is an **internal monorepo**. Contributions are currently limited to official Inferra members.  
-External collaboration may be opened in future phases of the project roadmap.
+- ✅ Internal AI Frameworks (LLMs, NLP, GenAI)
+- ✅ Security Recon Tools & Exploit Simulation Scripts
+- ✅ Web Platforms, Dashboards, Dev Portals
+- ✅ Portfolio Website of Inferra Labs *(ongoing project)*
+- ✅ Visual Brand Kits & Identity Systems
+
+---
+
+## 🔍 Engineering Principles
+
+> "_Minimal in UI. Maximal in intelligence._"
+
+- 🧩 Modular Architecture  
+- 🔐 Security-by-Design  
+- 📊 Data-driven Engineering  
+- 🎨 Branded User Experience  
+- 🚀 Velocity over Vanity
+
+---
+
+## 🧾 Contribution Guidelines
+
+> 🔒 **Private Repository** — Internal team use only (for now)
+
+- Use branch naming: `feature/`, `fix/`, `design/`
+- Write clean commits: `feat: added xyz`, `fix: resolved bug abc`
+- All code must go through review before merging
+- Design changes require Creative Dept approval
+- No hardcoded secrets or large media files
+
+---
+
+## 🛠️ Tooling Stack
+
+| Stack | Tools |
+|-------|-------|
+| Language | Python · JS · HTML/CSS · Bash |
+| AI/ML | PyTorch · TensorFlow · OpenCV · Transformers |
+| Web | React · Tailwind · Node.js · Django |
+| Security | Nmap · Metasploit · Wireshark · Burp Suite |
+| Data | Pandas · SQL · Plotly · Sklearn |
+| Design | Figma · Canva · Illustrator |
+
+---
+
+## 📬 Contact
+
+- 🌐 Website (in development): [https://inferralabs.com](https://inferralabs.com)
+- 📧 Email: `theinferralabs@gmail.com`
+- 🔗 GitHub: [github.com/Inferra-Labs](https://github.com/Inferra-Labs)
 
 ---
 
 ## 📄 License
 
-All contents of this repository are the intellectual property of **Inferra Labs**.  
-Do not share, distribute, or modify without prior authorization.
+This repository and its contents are the intellectual property of **Inferra Labs**.  
+All rights reserved. No reuse, redistribution, or reproduction without explicit permission.
 
 ---
 
 <p align="center">
-  <strong>© 2025 Inferra Labs · All Rights Reserved</strong><br>
+  <img src="https://i.postimg.cc/ZBZzM0Jb/inferra-light.png" width="120" alt="Inferra Labs Logo Light"/>
+</p>
+
+<p align="center">
+  <strong>© 2025 Inferra Labs</strong><br>
   <em>Built with purpose. Fueled by intelligence.</em>
 </p>
+
