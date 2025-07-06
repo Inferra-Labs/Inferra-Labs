@@ -1,76 +1,87 @@
-<h1 align="center"> The Inferra Labs</h1>
+<h1 align="center">🧠 Inferra Labs</h1>
 <p align="center">
-  <b>Innovation | Code | Impact</b> <br>
-  A student-led tech force shaping the future, one project at a time.
+  <em>Gateway to Decipher</em><br>
+  <strong>Artificial Intelligence · Cyber Security · Software · Web · Data · Design</strong>
+</p>
+
+<p align="center">
+  <img corner-radius=50% src="[https://your-cdn-link/inferra-logo.png](https://drive.google.com/file/d/1t6IXD2MgppT-jvB9jqPncy9L6f3zontO/view?usp=drive_link)" width="140" alt="Inferra Labs Logo" />
 </p>
 
 ---
 
-### 🧠 About Us
+## 🧭 About
 
-**The Inferra Labs** is the unofficial tech team founded at Dr. D. Y. Patil Institute of Technology, led by students passionate about building real-world solutions through code, creativity, and collaboration.
+**Inferra Labs** is a multidisciplinary innovation lab where engineering meets intelligence.  
+We build secure, intelligent systems across multiple domains — blending creativity, precision, and scale.
 
-We are **creators, developers, and tech rebels** who believe in learning by doing — from hackathons to open-source to AI-powered projects.
+Our teams operate like focused startups within a unified ecosystem, driving projects in:
 
----
-
-### 🎯 Our Mission
-
-> **Empower students to build, break, and innovate through tech.**
-
-- 💡 Build impactful projects for campus and beyond  
-- 🧑‍💻 Train members in Web Dev, AI/ML, IoT, and more  
-- 🤝 Collaborate with clubs, startups, and industry mentors  
-- 🚀 Represent our college in hackathons and tech fests
+- 🤖 **Artificial Intelligence**
+- 🛡️ **Cyber Security**
+- 💻 **Software Development**
+- 🌐 **Web Engineering**
+- 📊 **Data Science**
+- 🎨 **Creative & Visual Identity**
 
 ---
 
-### 💼 Current Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-
-
-> Want to contribute or suggest ideas? Open an issue or drop us a DM!
+Each department maintains its own structure, standards, and workflows — all aligned under the Inferra umbrella.
 
 ---
 
-### 🧑‍💻 Tech Stack We Love
+## 🔍 Philosophy
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,cpp,arduino,git,github,figma)
+> "Think Deep. Build Smart. Move Fast. Stay Secure."
 
----
-
-### 🧩 Join The Squad
-
-We're always looking for passionate minds who:
-- 💻 Love to code or design
-- 🧠 Have ideas to solve real problems
-- 💬 Want to grow with a motivated team
-
-📩 Fill this [Recruitment Form](#) or message us on [Instagram](#) / [LinkedIn](#) to join!
+- Minimal, modular, and meaningful code
+- Secure by design — always
+- Cross-functional collaboration
+- Design meets utility
 
 ---
 
-### 📸 Gallery
+## 🧠 Team Structure
 
-> Coming soon: behind-the-scenes, hackathon pics, and team memories!
+| Department             | Lead/Contact             |
+|------------------------|--------------------------|
+| Artificial Intelligence | [AI Lead Name]           |
+| Cyber Security          | [CyberSec Lead Name]     |
+| Software Engineering    | [SDE Lead Name]          |
+| Web Development         | [Frontend Lead Name]     |
+| Data Science            | [Data Lead Name]         |
+| Creative Department     | Abhishek Patil (Brand Head) |
 
----
-
-### 🏆 Achievements
-
-Loading....!!!
-
----
-
-### 📬 Connect with Us
-
-- 🔗 Website: [inferra-labs.github.io](#) *(Coming Soon)*
-- 📧 Email: theinferralabs@gmail.com
-- 📷 Instagram: [@theinferralabs](#)
-- 💼 LinkedIn: [The Inferra Labs](#)
+For collaboration or internal onboarding, contact us at `team@inferralabs.com`
 
 ---
 
-<p align="center">🦾 Built with love by The Inferra Labs · Pune, India 🇮🇳</p>
+## ⚙️ Internal Standards
+
+- ✅ Use semantic commit messages (`feat:`, `fix:`, `docs:`)
+- ✅ Maintain clean and consistent folder structure
+- ✅ Use README.md in every major subdirectory
+- ✅ Never push sensitive data or large binaries
+- ✅ Follow department-specific guidelines
+
+---
+
+## 🚧 Contribution
+
+This is an **internal monorepo**. Contributions are currently limited to official Inferra members.  
+External collaboration may be opened in future phases of the project roadmap.
+
+---
+
+## 📄 License
+
+All contents of this repository are the intellectual property of **Inferra Labs**.  
+Do not share, distribute, or modify without prior authorization.
+
+---
+
+<p align="center">
+  <strong>© 2025 Inferra Labs · All Rights Reserved</strong><br>
+  <em>Built with purpose. Fueled by intelligence.</em>
+</p>
