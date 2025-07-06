@@ -42,10 +42,10 @@ We follow a **mobile-first** and **component-driven** development philosophy wit
 
 | Role                 | Member               |
 |----------------------|----------------------|
-| **Department Lead**  | Gaurav Saste         |
+| **Department Lead**  | 🔄 To Be Decided       |
 | **Backend Developer**| Abhishek Patil       |
 | **Frontend Developer**| Shravan Pulliwar    |
-| **UI/UX Collaboration** | TBD |
+| **UI/UX Collaboration** | Shamli Jadhao |
 
 > Every member contributes to the department’s architecture, planning, and creative strategy.
 
