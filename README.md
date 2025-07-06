@@ -1,4 +1,4 @@
-c<h1 align="center">🧠 Inferra Labs</h1>
+<h1 align="center">🧠 The Inferra Labs</h1>
 <p align="center"><em>Gateway to Decipher</em></p>
 
 <p align="center">
@@ -123,7 +123,7 @@ All rights reserved. No reuse, redistribution, or reproduction without explicit 
 
 
 <p align="center">
-  <strong>© 2025 Inferra Labs</strong><br>
+  <strong>© 2025 The Inferra Labs</strong><br>
   <em>Built with purpose. Fueled by intelligence.</em>
 </p>
 
