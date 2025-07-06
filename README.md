@@ -41,7 +41,7 @@ We combine **elegance**, **engineering**, and **execution** to tackle complex re
 
 ## 🧱 Repository Structure
 
-inferra-labs/
+inferra-labs/ <br>
 ├── artificial-intelligence/ <br>
 ├── cyber-security/ <br>
 ├── web-development/ <br>
