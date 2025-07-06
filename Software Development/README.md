@@ -38,9 +38,9 @@ We craft robust, scalable, and intelligent software systems that bridge the gap 
 
 | Role                    | Member             |
 |-------------------------|--------------------|
-| **Department Lead**     | 🔄 To Be Decided   |
-| **Full Stack Developer**| 🔄 To Be Decided   |
-| **Infra & Tooling**     | 🔄 To Be Decided  |
+| **Department Lead**     | Malhar Pawle   |
+| **Full Stack Developer**| Malhar Pawle   |
+| **Infra & Tooling**     | Malhar Pawle  |
 | **Integration Support** | Cross-team Collab  |
 
 > This department is currently in an expansion phase and welcomes dedicated engineers.
