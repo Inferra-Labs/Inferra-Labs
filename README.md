@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="[https://ibb.co/TMX3fnb1](https://ibb.co/TMX3fnb1)" width="140" style="border-radius: 12px;" alt="Inferra Labs Logo"/>
+  <a href="https://ibb.co/TMX3fnb1">
+    <img src="https://i.ibb.co/TMX3fnb1" width="140" style="border-radius:12px;" alt="Inferra Labs Logo"/>
+  </a>
 </p>
 
 <h1 align="center"><strong>The Inferra Labs</strong></h1>
